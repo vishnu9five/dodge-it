@@ -1,2 +1,2 @@
 # dodge-it
-first godat game
+first godot game
